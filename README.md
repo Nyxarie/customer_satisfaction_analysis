@@ -6,7 +6,7 @@
 Цель - анализ уровня удовлетворенности клиентов на основе данных опроса.
 
 ## Источник данных
-Для работы с данным проектом используется база данных ACSI.db, содержащая преобразованный публичный набор данных The American Customer Satisfaction Index (ACSI), доступный по ссылке:[ACSI Dataset](https://data.mendeley.com/datasets/64xkbj2ry5/1). Hult, Tomas; Morgeson, Forrest (2023), “The American Customer Satisfaction Index (ACSI): A Sample Dataset and Description”, Mendeley Data, V1, doi: 10.17632/64xkbj2ry5.1
+Для работы с данным проектом используется база данных ACSI.db, содержащая преобразованный публичный набор данных The American Customer Satisfaction Index (ACSI), доступный по ссылке: [ACSI Dataset](https://data.mendeley.com/datasets/64xkbj2ry5/1). Hult, Tomas; Morgeson, Forrest (2023), “The American Customer Satisfaction Index (ACSI): A Sample Dataset and Description”, Mendeley Data, V1, doi: 10.17632/64xkbj2ry5.1
 
 ## Инструменты
 - Python — основной язык программирования;
@@ -38,7 +38,7 @@ customer_satisfaction_analysis/
 **Примечание**: Папка data/ изначально содержит только один файл - базу данных. После запуска customer_satisfaction_analysis.ipynb в эту папку также сохранится извлеченная таблица.
 
 ## Результаты
-В результате проделанной работы был создан интерактивный [дашборд в Power BI](), позволяющий анализировать распределение клиентов по различным категориям и рассчитывать NPS. Также была подготовлена [презентация](), содержащая основные выводы по анализу данных.
+В результате проделанной работы был создан интерактивный [дашборд в Power BI](https://github.com/Nyxarie/customer_satisfaction_analysis/blob/main/vizualization/dash.pbix), позволяющий анализировать распределение клиентов по различным категориям и рассчитывать NPS. Также была подготовлена [презентация](https://github.com/Nyxarie/customer_satisfaction_analysis/blob/main/vizualization/presentation.pdf), содержащая основные выводы по анализу данных.
 
 ## Вывод
-Все ключевые инсайты и выводы представлены в файле [presentation.pdf]().
+Все ключевые инсайты и выводы представлены в файле [presentation.pdf](https://github.com/Nyxarie/customer_satisfaction_analysis/blob/main/vizualization/presentation.pdf).
